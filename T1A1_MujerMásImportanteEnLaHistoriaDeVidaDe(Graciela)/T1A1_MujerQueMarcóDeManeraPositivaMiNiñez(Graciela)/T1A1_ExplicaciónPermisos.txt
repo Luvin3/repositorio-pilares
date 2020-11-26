@@ -1,0 +1,18 @@
+¿Cómo funcionan los permisos?
+Los permisos para una carpeta son necesarios para el control de seguridad, los permisos seran asignados a los diferentes usuarios que existan en el sistema.
+Los permisos que se pueden modificar son los siguientes:
+Control Total
+Modificar
+Lectura y ejecución
+Mostrar el contenido en la carpeta 
+Lectura 
+Escritura
+Permisos especiales.
+Como podemos ver dependiendo de cual sea la situación podemos asignar que permisos queremos para nuestra carpeta.
+Su funcionamiento es más visto por carpetas compartidas por diferenets usuarios y que permisos tienen cada uno, para no tener accesos al contenido y funciones.
+La manera en que podemos hacer esto es con los siguientes pasos:
+1.- Nos dirigimos a la carpeta y damos click derecho y en propiedades
+2.- Seleccionar la parte de Seguridad (podemos ver que usuarios tienen que permisos)
+3.- Damos en Editar
+4.- Seleccionamos el usuario y abajo selecionamos las casillas de los permisos que queremos para ese usuario.
+5.- Aplicamos y Aceptamos 
