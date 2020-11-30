@@ -1,0 +1,14 @@
+LINUX
+*Es un poderoso y versátil sistema operativo, multiusuario y multitarea
+*Su creación se baso en Unix, teniendo como elemento principal que sería Libre, no gratuito
+*Se puede utilizar sobre PC de escritorio 
+*Múltiples tareas simultáneamente de forma segura
+*Es distribuido por varias casas productoras de software, como Red Hat, Mandrake, Suse, Caldera, Debian, Conectiva, entre otros
+*No se ve afectado por virus
+*No es fácilmente atacado por intrusos informáticos
+*No requiere ser reiniciado, al presentarse problemas en el manejo del mismo
+*Se puede actualizar sin requerirse el reinicio
+
+
+
+

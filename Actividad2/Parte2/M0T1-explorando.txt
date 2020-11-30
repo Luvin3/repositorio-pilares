@@ -1,0 +1,58 @@
+GIT STATUSEn la carpeta le damos Git Has
+
+git init
+Inicia el repositorio desde la carpeta 
+
+git status
+Nos manda el estado de nuestar cuenta y que archivos estan en el repositorio
+
+git add index.html
+Agregar al repositorio
+
+git add .
+Nos agrega todo lo que tengamos y lo mandamos staging area 
+
+git commit 
+Para confirmar la primera captura de pantalla
+i para insertar 
+Insertar titulo en la primera linea
+esc para quitar la insercción
+:wq es para salir 
+ó
+git commit -m "Mensaje del commit"
+
+.gitgnore 
+ignorrar archivos que no queremos que lo este tomando en cuenta git
+
+git log
+Información de captura de pantalla en tiempo 
+
+git commit -m "Segundo commit, se agrego el header y una nav bar"
+Nombrar otro commit
+
+git remote add origin https://github.com/Luvin3/ejemplo-git.git
+Agregar el repositorio en la nube 
+
+git push -u origin master
+pasar del repositorio local al repositorio final u enviar los cambios 
+
+git clone https://github.com/Luvin3/ejemplo-git.git
+descarga el codigo clonarlo
+
+git diff
+Ver las diferencias o cambios que se hicieron 
+
+git branch
+Ver las ramas disponibles
+
+git branch beta
+Hacer una rama de nombre beta
+
+git checkout master
+Seleccionar la rama master 
+
+git branch -D checkout
+Eliminar la rama checkout
+
+
+                
